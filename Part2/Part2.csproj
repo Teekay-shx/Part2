@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>disable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<AssemblyName>Part2</AssemblyName>
+		<RootNamespace>Part2</RootNamespace>
+		<StartupObject>Part2.Program</StartupObject>
+	</PropertyGroup>
+
+</Project>
