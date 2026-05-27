@@ -48,7 +48,7 @@ namespace Part2
                   "Scammers often pretend to be banks or government agencies. Never click suspicious links and never share personal details unless YOU made contact first." },
 
                 { "privacy",
-                  "Protecting your privacy starts with reviewing app permissions. Only allow apps access to what they truly need and check your social media privacy settings regularly." },
+                  "Protecting your privacy starts with reviewing app permissions. Only allow apps access to what they truly need and check your social media privacy settings regularly.." },
 
                 { "malware",
                   "Malware is malicious software designed to damage or spy on your device. Keep your antivirus up to date and avoid downloading files from unknown sources." },
