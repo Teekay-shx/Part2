@@ -904,7 +904,7 @@ namespace Part2
             {
                 try
                 {
-                    string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "chat bot.wav");
+                    string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Chat bot.wav");
                     if (File.Exists(path))
                     {
                         SoundPlayer player = new SoundPlayer(path);
