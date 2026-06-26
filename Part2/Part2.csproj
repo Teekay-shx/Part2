@@ -10,14 +10,4 @@
 		<StartupObject>Part2.Program</StartupObject>
 	</PropertyGroup>
 
-	<ItemGroup>
-	  <None Remove="Chat bot.wav" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Content Include="Chat bot.wav">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </Content>
-	</ItemGroup>
-
 </Project>
